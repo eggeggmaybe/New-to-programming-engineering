@@ -1,5 +1,8 @@
 # New-to-programming-engineering
 
+The project is to let one experience in software engineering, Python programming and processing data from different sources. It's a very good practice for a beginner coder.
+The goal of this project is to generate a html file, a JSON file and a csv file of a company.An simple data analysis (detail is showed below) will be also conducted. 
+
 "HTML Generation.zip":
 In this zip file, "html_generator.py" is used to generate the html which contains products and prices. "Product Photos" folder includes the photos used in the html. Moreover, "product_details.csv" is just product details.
 
