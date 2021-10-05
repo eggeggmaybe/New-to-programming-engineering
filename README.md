@@ -5,10 +5,12 @@ The goal of this project is to generate a html file, a JSON file and a csv file 
 
 "HTML Generation.zip":
 In this zip file, "html_generator.py" is used to generate the html which contains products and prices. "Product Photos" folder includes the photos used in the html. Moreover, "product_details.csv" is just product details.
+A sample html file "index.html" is also uploaded but one can get the same file using the code in this zip file.
 
 "JSON_CSV_generator.py":
 This is used to generate a JSON file that contains information about customer interactions with the web site (clicks, hover time, viewing time, customer ID)
 This will also generate a csv file that works as a SQL database of stock, customer purchases and shipping expenses.
+A sample csv file "Purchase.csv" is also uploaded but one can get the same file using the code.
 
 "eventsperday_test.py", "multiplylist_test.py", and "usermaker_test.py":
 These are used for unittest some functions in "JSON_CSV_generator.py".
